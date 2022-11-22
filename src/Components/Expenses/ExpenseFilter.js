@@ -1,5 +1,4 @@
 import "./ExpenseFilter.css"
-import newExpense from "../../App"
 
 export default function ExpenseFilter(props){
 

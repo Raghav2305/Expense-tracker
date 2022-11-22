@@ -15,7 +15,7 @@ const INITIAL_EXPENSES = [{
 
   {id : "3",
   name : "Groceries",
-  amount: 500,
+  amount:  500,
   date: new Date(2022,4,22)},
 
   {id : "4",

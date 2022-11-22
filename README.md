@@ -1,4 +1,5 @@
-# Check out the Deplyed App -> https://personal-react-expense-tracker.netlify.app/
+# Check out the Deplyed App -> 
+https://personal-react-expense-tracker.netlify.app/
 
 # Getting Started with Create React App
 
